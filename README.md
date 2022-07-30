@@ -1,0 +1,2 @@
+# Este repositório tem o objetivo de ser um local para guardar todos os códigos dos exercícios da lista também aqui presente.
+### Resolvendo estes exercícios, tenho como objetivo aprender uma nova linguagem por meio da prática e assim aperfeiçoar meu raciocínio lógico como programador.
