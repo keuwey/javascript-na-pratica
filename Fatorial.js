@@ -1,9 +1,14 @@
-function fat(x){
-    if (x > 1){
-        return x * fat(x-1);
-    }
-    else {
-        return 1;
-    }
+// function fat(number){
+//     if (number > 1) return number * fat(number-1); else return 1;
+// }
+// console.log(fat(8));
+
+function fat(number){
+  if (number > 1) {
+    return number * fat(number-1);
+  }
+  else {
+    return 1;
+  }
 }
-console.log(fat(10));
+console.log(fat(5));
