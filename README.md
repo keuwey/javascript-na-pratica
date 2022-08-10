@@ -1,5 +1,23 @@
-# Repositório de aprendizado do JavaScript
 
-## Este repositório tem o objetivo de guardar os códigos da lista de exercícios. Resolvendo estes exercícios, tenho como objetivo aprender uma nova linguagem por meio da prática e assim aperfeiçoar meu raciocínio lógico como programador
+# JavaScript Learning Repository
 
-### Códigos mais complexos ou projetos maiores que envolvam o JS terão um repositório próprio. Esse serve somente como um lugar para guardar exercícios resolvidos e projetos de pequeno porte
+This repository is intended to store the exercise list codes. Solving these exercises, I aim to learn a new language through practice and thus improve my logical thinking as a programmer.
+
+More complex code or larger projects that involve JS will have their own repository. This serves only as a place to store solved exercises and small projects.
+## RUN
+
+To run any of these scripts on your machine, first clone this repo 
+
+```bash
+  git clone https://github.com/keuwey/javascript-na-pratica.git
+```
+Then run
+
+```bash
+  cd Python_projects
+  node <file_name.js>
+```
+## Authors
+
+- [@keuwey](https://www.github.com/keuwey)
+
