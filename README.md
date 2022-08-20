@@ -14,10 +14,10 @@ To run any of these scripts on your machine, first clone this repo
 Then run
 
 ```bash
-  cd Python_projects
+  cd javascript-na-pratica
   node <file_name.js>
 ```
 ## Authors
 
-- [@keuwey](https://www.github.com/keuwey)
+[Kevin Halley](https://www.github.com/keuwey)
 
