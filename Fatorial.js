@@ -5,10 +5,10 @@
 
 function fat(number){
   if (number > 1) {
-    return number * fat(number-1);
+    return number * fat(number-1)
   }
   else {
-    return 1;
+    return 1
   }
 }
-console.log(fat(5));
+console.log(fat(10))
